@@ -1,0 +1,22 @@
+.background    { background-image: url("http://3.bp.blogspot.com/-rbw-Hxft9XM/VVk1cgkyjkI/AAAAAAAAI3E/I6iT93rjfQg/s800/pastel-rainbow-backgrounds-wallpaper-pastel-rainbow-backgrounds.jpg");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("https://static.scientificamerican.com/sciam/cache/file/0616702E-FB42-465D-A6938D74BD849E80.jpg?w=590&h=393&9CAA961C-144D-4213-9E668F881AFE0464");}
+.wall          { background-image: url("http://www.uidownload.com/files/350/192/961/white-plastic-texture-free-vector.jpg");  }
+
+.actor  { position: absolute;  }
+.coin   { background: #FFCCCC; }
+.koin   {background: #CCDBFF;}
+.player { background: #B5ABBC;
+/*background-size: 20px 20px;*/}
+.audio {
+  display: none;
+}
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
